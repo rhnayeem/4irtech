@@ -1,11 +1,11 @@
-  =>  Template Name    : 4irTech - CCTV Website Template
+  =>  Project Name    : 4irTech - CCTV Website Template
 
-  =>  Template Link    : https://htmlcodex.com/cctv-website-template
+  =>  Project Link    : https://4irtech.com.bd/
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Project License : https://4irtech.com.bd/ (or read the LICENSE.txt file)
 
-  =>  Template Author  : Rezaul Huque Nayeem
+  =>  Project Author  : Rezaul Huque Nayeem
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://4irtech.com.bd/
 
-  =>  About Rezaul Huque Nayeem : Rezaul Huque Nayeem is one of the top creators and publishers of 4ir Tech -  Your CCTV Camera Solution, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Rezaul Huque Nayeem : Rezaul Huque Nayeem is one of the top creators and publishers of 4ir Tech -  Your CCTV Camera Solution
